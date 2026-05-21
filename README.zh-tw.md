@@ -12,7 +12,7 @@
 
 ## 如何使用這些檔案
 
-你可以使用這些資料在一個Hugo網站中渲染圖片。參見：[Ecchi Fanservice Anime List Website](https://github.com/ivon852/ecchi-fanservice-anime-list-website)
+你可以使用這些資料建立Hugo網站並渲染圖片。參見：[Ecchi Fanservice Anime List Website](https://github.com/ivon852/ecchi-fanservice-anime-list-website)
 
 範例網站：[https://htxacg.cc/posts/uncensored-ecchi-anime-list/](https://htxacg.cc/posts/uncensored-ecchi-anime-list/)
 <img src="https://htxacg.cc/posts/uncensored-ecchi-anime-list/images/title.webp" width=500>
@@ -249,8 +249,6 @@ IS-Infinite-Stratos_S01E08_Charlotte-Dunois_Laura-Bodewig.webp
 如果三張圖片都是同一個角色且同一集數：圖片最後面加上_1、_2、_3。
 
 圖片註解字串需要包含三國語言，並以HTML的`<title>`和`<alt>`屬性渲染在圖片上。
-
-參見：[Specification.md](Specification.md)
 
 為方便手機版用戶閱讀，另外渲染成p屬性在圖片下方。
 
