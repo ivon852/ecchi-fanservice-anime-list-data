@@ -15,6 +15,8 @@
 參見：[Ecchi Fanservice Anime List Website](https://github.com/ivon852/ecchi-fanservice-anime-list-website)
 
 範例網站：[https://htxacg.cc/posts/uncensored-ecchi-anime-list/](https://htxacg.cc/posts/uncensored-ecchi-anime-list/)
+<img src="https://htxacg.cc/posts/uncensored-ecchi-anime-list/images/title.webp" width=500>
+<img src="https://htxacg.cc/posts/uncensored-ecchi-anime-list/images/title2.webp" width=500>
 
 
 ## 規格書
@@ -229,9 +231,7 @@ JSON編輯使用Visual Studio Code，檢查語法與校正文字。
 IS-Infinite-Stratos_S01E06_Charlotte-Dunois.webp
 ```
 
-如果截圖有多個角
-參見：[Specification.md](Specification.md)
-色，使用底線分隔。只需要標註女性角色名稱。
+如果截圖有多個角色，使用底線分隔。只需要標註女性角色名稱。
 
 例如
 ```
@@ -255,15 +255,10 @@ IS-Infinite-Stratos_S01E08_Charlotte-Dunois_Laura-Bodewig.webp
 
 以10年為一個單位進行分割（1970~1979、1980~1989，剩餘的以此類推）。這樣做的理由是同一個網頁塞全部年份內容太多，若按照每一年下去切割內容又太少，故以十年為一個單位。此外這樣也方便觀察不同年代的畫風變化。
 
-拆開成8個json檔案和網頁。
+根據這兩個json檔案渲染分開的網頁：
 ```bash
-├── fanserviceanimelist-1960-1969.json
-├── fanserviceanimelist-1970-1979.json
-├── fanserviceanimelist-1980-1989.json
-├── fanserviceanimelist-1990-1999.json
-├── fanserviceanimelist-2000-2009.json
-├── fanserviceanimelist-2010-2019.json
-├── fanserviceanimelist-2020-2029.json
+ecchi-fanservice-anime-list.json
+uncensored-ecchi-anime-list.json
 ```
 
 每個json檔案的最外層為一個陣列

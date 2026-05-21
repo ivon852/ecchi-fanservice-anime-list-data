@@ -234,8 +234,6 @@ IS-Infinite-Stratos_S01E06_Charlotte-Dunois.webp
 
 If a screenshot contains multiple characters, separate them with underscores. Only female character names need to be marked.
 
-See: [Specification.md](Specification.md)
-
 For example:
 ```text
 IS-Infinite-Stratos_S01E08_Charlotte-Dunois_Laura-Bodewig.webp
@@ -256,15 +254,10 @@ JSON usually does not allow `//` comments. Although the JSONC standard exists, H
 
 Split the data by decade, such as 1970-1979, 1980-1989, and so on. The reason is that putting all years on one webpage would make the page too large, while splitting the content by individual year would make each page too small. Decade-based splitting also makes it easier to observe changes in art styles across different eras.
 
-Split the data into 8 JSON files and webpages.
+Split the data into 2 JSON files and multiple webpages.
 ```bash
-├── fanserviceanimelist-1960-1969.json
-├── fanserviceanimelist-1970-1979.json
-├── fanserviceanimelist-1980-1989.json
-├── fanserviceanimelist-1990-1999.json
-├── fanserviceanimelist-2000-2009.json
-├── fanserviceanimelist-2010-2019.json
-├── fanserviceanimelist-2020-2029.json
+ecchi-fanservice-anime-list.json
+uncensored-ecchi-anime-list.json
 ```
 
 The outermost layer of each JSON file is an array.
