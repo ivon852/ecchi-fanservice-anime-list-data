@@ -17,7 +17,6 @@ See: [Ecchi Fanservice Anime List Website](https://github.com/ivon852/ecchi-fans
 
 Example website: [https://htxacg.cc/posts/uncensored-ecchi-anime-list/](https://htxacg.cc/posts/uncensored-ecchi-anime-list/)
 <img src="https://htxacg.cc/posts/uncensored-ecchi-anime-list/images/title.webp" width=500>
-<img src="https://htxacg.cc/posts/uncensored-ecchi-anime-list/images/title2.webp" width=500>
 
 
 ## Specification

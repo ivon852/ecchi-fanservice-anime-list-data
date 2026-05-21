@@ -16,7 +16,6 @@
 
 範例網站：[https://htxacg.cc/posts/uncensored-ecchi-anime-list/](https://htxacg.cc/posts/uncensored-ecchi-anime-list/)
 <img src="https://htxacg.cc/posts/uncensored-ecchi-anime-list/images/title.webp" width=500>
-<img src="https://htxacg.cc/posts/uncensored-ecchi-anime-list/images/title2.webp" width=500>
 
 
 ## 規格書
