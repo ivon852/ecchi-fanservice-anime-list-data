@@ -10,7 +10,6 @@
 - `uncensored-ecchi-anime-list.json`: 有露點的。
 
 
-
 ## 如何使用這些檔案
 
 參見：[Ecchi Fanservice Anime List Website](https://github.com/ivon852/ecchi-fanservice-anime-list-website)
