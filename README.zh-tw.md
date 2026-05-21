@@ -6,16 +6,23 @@
 
 ## 專案結構
 
-- `ecchi-fanservice-anime-list.json`: 沒露點的。
-- `uncensored-ecchi-anime-list.json`: 有露點的。
+- `ecchi-fanservice-anime-list.json`: 很色但是沒露點的動漫列表。
+- `uncensored-ecchi-anime-list.json`: 有露點的動漫列表。
 
 
 ## 如何使用這些檔案
 
-參見：[Ecchi Fanservice Anime List Website](https://github.com/ivon852/ecchi-fanservice-anime-list-website)
+你可以使用這些資料在一個Hugo網站中渲染圖片。參見：[Ecchi Fanservice Anime List Website](https://github.com/ivon852/ecchi-fanservice-anime-list-website)
 
 範例網站：[https://htxacg.cc/posts/uncensored-ecchi-anime-list/](https://htxacg.cc/posts/uncensored-ecchi-anime-list/)
 <img src="https://htxacg.cc/posts/uncensored-ecchi-anime-list/images/title.webp" width=500>
+
+
+## 圖呢
+
+你或許會在範例網站看到動畫的預覽截圖，那些檔案託管在私人的儲存庫。
+
+很抱歉不能把圖片直接放在這個儲存庫，這裡的.json只有圖片檔名，所以只得把圖片檔案另外提供。[這裡](https://mega.nz/file/FeggjAhZ#H-71eS-VNwvGc41GBx2sr-BcJPRX5ncUf427qMg7EKs)會定時更新所有圖片檔案的壓縮包。
 
 
 ## 規格書

@@ -13,10 +13,17 @@ A dataset for a list of ecchi fanservice anime with visible nipple exposure.
 
 ## How to Use These Files
 
-See: [Ecchi Fanservice Anime List Website](https://github.com/ivon852/ecchi-fanservice-anime-list-website)
+You may use these json files to build a website using Hugo. See: [Ecchi Fanservice Anime List Website](https://github.com/ivon852/ecchi-fanservice-anime-list-website)
 
 Example website: [https://htxacg.cc/posts/uncensored-ecchi-anime-list/](https://htxacg.cc/posts/uncensored-ecchi-anime-list/)
 <img src="https://htxacg.cc/posts/uncensored-ecchi-anime-list/images/title.webp" width=500>
+
+
+## Where Are The Images
+
+You might see preview screenshots of the anime on the example website; those files are hosted in a private repository.
+
+Unfortunately, we can't directly put the images in this repository. The .json file here only contains the image filenames, so we have to provide the image files separately. [Here](https://mega.nz/file/FeggjAhZ#H-71eS-VNwvGc41GBx2sr-BcJPRX5ncUf427qMg7EKs) will be updated periodically with a compressed archive of all image files.
 
 
 ## Specification
