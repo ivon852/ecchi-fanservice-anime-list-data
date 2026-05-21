@@ -22,7 +22,7 @@
 
 你或許會在範例網站看到動畫的預覽截圖，那些檔案託管在私人的儲存庫。
 
-很抱歉不能把圖片直接放在這個儲存庫，這裡的.json只有圖片檔名，所以只得把圖片檔案另外提供。[這裡](https://mega.nz/file/FeggjAhZ#H-71eS-VNwvGc41GBx2sr-BcJPRX5ncUf427qMg7EKs)會定時更新所有圖片檔案的壓縮包。
+很抱歉不能把圖片直接放在這個儲存庫，這裡的.json只有圖片檔名，所以只得把圖片檔案另外提供。[這裡](https://mega.nz/folder/9fhi1BBA#H0xaLpJFtIzDsVUIKI8fUw)會定時更新所有圖片檔案的壓縮包。
 
 
 ## 規格書

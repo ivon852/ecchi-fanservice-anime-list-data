@@ -23,7 +23,7 @@ Example website: [https://htxacg.cc/posts/uncensored-ecchi-anime-list/](https://
 
 You might see preview screenshots of the anime on the example website; those files are hosted in a private repository.
 
-Unfortunately, we can't directly put the images in this repository. The .json file here only contains the image filenames, so we have to provide the image files separately. [Here](https://mega.nz/file/FeggjAhZ#H-71eS-VNwvGc41GBx2sr-BcJPRX5ncUf427qMg7EKs) will be updated periodically with a compressed archive of all image files.
+Unfortunately, we can't directly put the images in this repository. The .json file here only contains the image filenames, so we have to provide the image files separately. [Here](https://mega.nz/folder/9fhi1BBA#H0xaLpJFtIzDsVUIKI8fUw) will be updated periodically with a compressed archive of all image files.
 
 
 ## Specification
