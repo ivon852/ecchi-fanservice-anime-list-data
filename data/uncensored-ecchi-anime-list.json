@@ -273,6 +273,40 @@
     },
     {
         "name": {
+            "zh-TW": "藤本樹17-26",
+            "ja-JP": "藤本タツキ17-26",
+            "en-US": "Fujimoto Tatsuki 17-26"
+        },
+        "date": "2025-11-08",
+        "images": {
+            "img1": {
+                "zh-TW": "",
+                "ja-JP": "",
+                "en-US": "",
+                "imgsrc": ""
+            },
+            "img2": {
+                "zh-TW": "",
+                "ja-JP": "",
+                "en-US": "",
+                "imgsrc": ""
+            },
+            "img3": {
+                "zh-TW": "",
+                "ja-JP": "",
+                "en-US": "",
+                "imgsrc": ""
+            }
+        },
+        "description": {
+            "zh-TW": "",
+            "ja-JP": " ",
+            "en-US": " "
+        },
+        "comment": ""
+    },
+    {
+        "name": {
             "zh-TW": "小手指同學，請別亂摸",
             "ja-JP": "さわらないで小手指くん",
             "en-US": "Sawaranai de Kotesashikun"
